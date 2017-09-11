@@ -6,7 +6,7 @@
 //  Copyright © 2017년 D7703_04. All rights reserved.
 //
 
-import UIKit
+import UIKit*
 
 class ViewController: UIViewController {
 
